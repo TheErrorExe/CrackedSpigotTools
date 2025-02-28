@@ -1,7 +1,8 @@
 # CrackedSpigotTools
 Compile CoreProtect and PlotSquared from Scratch without Paying the Patreon
 # How to use
-First run ```bash
+First run
+ ```bash
 chmod +x tool.sh
 ./tool.sh
 ```
